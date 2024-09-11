@@ -73,9 +73,9 @@ Below is a screenshot showing the evaluation of the model on test data, includin
 
 ![test_data_evaluation](https://github.com/user-attachments/assets/b9f79ca2-3d4c-4e0b-98bb-b3fc4ae1e901)
 
-## 🚀 About Me
+## About Me
 
-Hello, I'm Akhilesh Thapliyal! 👋
+Hello, I'm Akhilesh Thapliyal!
 
 ## Contact
 
